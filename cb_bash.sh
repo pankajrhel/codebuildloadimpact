@@ -4,4 +4,4 @@
 ####
 # Copyright 2016 Load Impact
 
-echo " AWS Code build test "
+echo " AWS Code build test  "
